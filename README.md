@@ -14,4 +14,8 @@ The goal of this project was to render a 2D mini Solar System with textures and 
   - The Earth, orbiting around the Sun a bit further back;
   - The Moon, orbiting the Earth.
 
-### T2 -
+### T2 - 3D Scene Project:
+The goal of this project was to render a 3D scene of our choice, applying render techniques. For this scene, I chose to implement a clipplane and a projective texture.
+
+### T3 - Rendering Algorithms Project:
+The goal of this project was to apply two of the rendering algorithms we were introduced to in class, in a 3D scene. I chose to implement a reflective texture using stencils and planar shadows. 
